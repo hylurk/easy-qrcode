@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "author": "kabulore@gmail.com",
-  "description": "当前网址生成二维码",
+  "description": "生成当前网址二维码",
   "icons": {
     "16": "images/icon_16.png",
     "48": "images/icon_48.png",
